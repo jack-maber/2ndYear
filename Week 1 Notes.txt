@@ -1,0 +1,9 @@
+2 Files 
+
+main.h + main.cpp
+
+main.h will #include <SDL.h>
+
+int main, entry into program
+
+sdl_quit shuts down 
